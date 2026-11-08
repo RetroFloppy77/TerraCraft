@@ -5,7 +5,7 @@
 </div>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/XenonLab-Studio/TerraCraft/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/RetroFloppy77/TerraCraft/graphs/commit-activity)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 
@@ -25,7 +25,7 @@ The objectives of this project are as follows:
 
 - This is a good opportunity to entertain children on programming.
 
-- We are writing a new wiki to help users collaborate on the project in an easy and productive way. If you have questions, suggestions or want to help us, please write to xenonlab.develop@gmail.com or open a discussion here on Github in the "Issues" section.
+- We are writing a new wiki to help users collaborate on the project in an easy and productive way. If you have questions, suggestions or want to help us, please write to stefanoperis.github@gmail.com or open a discussion here on Github in the "Issues" section.
 
 The code should be well commented and more easily configurable. It should be easy to make some simple changes and see the results quickly.
 
@@ -48,7 +48,7 @@ Thank you all.
 
 ```shell
 sudo pip3 install pyglet
-git clone https://github.com/XenonLab-Studio/TerraCraft.git
+git clone https://github.com/RetroFloppy77/TerraCraft.git
 cd TerraCraft
 python3 main.py
 ```
@@ -69,7 +69,7 @@ defaults write com.apple.versioner.python Prefer-32-Bit -bool yes
 
 This assumes you are using the OS X default Python.  Works on Lion 10.7 with the default Python 3.5+, and may work on other versions too.  Please raise an issue if not.
 
-See the [wiki](https://github.com/XenonLab-Studio/TerraCraft/wiki) for this project to install Python, and other tips.
+See the [wiki](https://github.com/RetroFloppy77/TerraCraft/wiki) for this project to install Python, and other tips.
 <br/>
 
 ## Controls:
@@ -114,8 +114,8 @@ See the [wiki](https://github.com/XenonLab-Studio/TerraCraft/wiki) for this proj
 Copyright (C) 2013 Michael Fogleman<br>
 Copyright (C) 2018-2019 Stefano Peris<br>
 
-eMail: <xenonlab.develop@gmail.com><br>
-Github repository: <https://github.com/XenonLab-Studio/TerraCraft>
+eMail: <stefanoperis.github@gmail.com><br>
+Github repository: <https://github.com/RetroFloppy77/TerraCraft>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

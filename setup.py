@@ -13,9 +13,9 @@
 
 
 Copyright (C) 2013 Michael Fogleman
-Copyright (C) 2018/2019 Stefano Peris <xenonlab.develop@gmail.com>
+Copyright (C) 2018/2019 Stefano Peris <stefanoperis.github@gmail.com>
 
-Github repository: <https://github.com/XenonLab-Studio/TerraCraft>
+Github repository: <https://github.com/RetroFloppy77/TerraCraft>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -38,9 +38,9 @@ setup(
     name='TerraCraft',
     version='0.2.1',
     packages=['pyglet'],  # external packages as dependencies
-    url='https://github.com/XenonLab-Studio/TerraCraft',
+    url='https://github.com/RetroFloppy77/TerraCraft',
     license='GPL 3.0',
     author='Stefano Peris a.k.a. <XenonCoder>',
-    author_email='xenonlab.develop@gmail.com',
+    author_email='stefanoperis.github@gmail.com',
     description='Voxel Engine written in Python 3 + Pyglet.'
 )
